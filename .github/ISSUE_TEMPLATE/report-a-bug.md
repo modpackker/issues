@@ -1,7 +1,7 @@
 ---
 name: Report a bug
 about: Create a report for a problem
-title: "[\U0001F41B BUG]:"
+title: ''
 labels: ''
 assignees: ''
 

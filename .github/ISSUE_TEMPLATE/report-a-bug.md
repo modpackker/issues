@@ -1,6 +1,7 @@
 ---
 name: Report a bug
 about: Create a report for a problem
+type: 'bug'
 title: ''
 labels: ''
 assignees: ''
